@@ -6,9 +6,9 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "mongodb" : "latest",
-    "express" : "latest",
+    "mongodb" : "~1.4",
+    "express" : "~4.0.0",
     "monk" : "latest",
-    "body-parser" : "latest"
+    "body-parser" : "~1.0.0"
   }
 }
